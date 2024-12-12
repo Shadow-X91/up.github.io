@@ -1,0 +1,35 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Photo Gallery</title>
+      <link rel="stylesheet" href="css/gallery.css">
+      <script src="js/gallery.js" defer></script>
+  </head>
+  <body>
+
+      <div id="image" tabindex="0">
+          Hover over an image below to display here.
+      </div>
+
+      <!-- Image 1 -->
+      <img class="preview" alt="Styling with a Bandana" src="https://img.freepik.com/premium-photo/programming-code-abstract-screen-software-developer_43284-70.jpg?semt=ais_hybrid">
+
+      <!-- Image 2 -->
+      <img class="preview" alt="Python" src="https://t4.ftcdn.net/jpg/09/38/84/99/360_F_938849946_sJFLBTJ2cmBgLRPUHQuNHNd0LU6z2pzF.jpg">
+
+      <!-- Image 3 -->
+      <img class="preview" alt="html" src="https://images.wondershare.com/pdfelement/convert-pdf/jpg-to-html-code.jpg">
+
+      <!-- Image 4 -->
+      <img class="preview" alt="Deeeep learning" src="https://media.gettyimages.com/id/1310293181/photo/deep-learning-artificial-intelligence-background.jpg?s=612x612&w=0&k=20&c=pOM_yC4-bsNM0U_Lfm7Z6Zw-cb8uucGZx-H8n5M1tyg=">
+
+      <!-- Image 5 -->
+      <img class="preview" alt="Binary backround" src="https://media.gettyimages.com/id/1317329028/photo/binary-code-background.jpg?s=612x612&w=0&k=20&c=SdAVmutxqVrJ6D3FKpAnTtbYHuls5RXROZhhiEd7mxM=">
+
+      <!-- Image 6 -->
+      <img class="preview" alt="hey" src="https://media.istockphoto.com/id/1480773026/photo/thank-you-writes-on-the-chat-bubble.jpg?s=612x612&w=0&k=20&c=_6jtit5boD8ZEZZ4dqU9OUhK28Q58w909fQOuligGTI=">
+
+  </body>
+  </html>
