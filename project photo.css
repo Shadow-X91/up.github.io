@@ -1,0 +1,40 @@
+/* Name this external file gallery.css */
+
+body {
+    margin: 2%;
+    border: 1px solid black;
+    background-color: #b3b3b3;
+    padding:10px;
+}
+
+/* Main image display area */
+#image {
+    width: 575px;
+    height: 190px;
+    border: 5px solid black;
+    margin: 0 auto;
+    background-color: #8e68ff;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    text-align: center;
+    text-position:center;
+    background-size: cover; /* Ensures the image covers the container fully */
+    background-position: center center; /* Centers the background image */
+    margin-bottom: 25px;
+    font-size: 170%;
+    
+}
+
+/* Style for the images below the #image div */
+.preview {
+    width: 10%; /* Increases width for better visibility */
+    margin: 0 2% 20px 2%; /* Adjusts margins for spacing between images */
+  margin-left: 170px;
+    border: 5px solid black;
+  
+    
+}
+
+
+
